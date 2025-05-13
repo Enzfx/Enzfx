@@ -1,9 +1,8 @@
 
-<h1 align="center">Hi 👋 Opa ,sou o Enzo</h1>
+<h1 align="center">Opa 👋 ,sou o Enzo Freitas</h1>
 <h3 align="center">Atualmente sou estudante de Biotecnologia na Universidade Federal do Norte, e estou começando os estudos de linguagens de programação para me auxiliar na minha vida academica!</h3>
 
 <p align="left"> <a href="https://twitter.com/enzfsz" target="blank"><img src="https://img.shields.io/twitter/follow/Enzfsz?logo=twitter&style=for-the-badge" alt="Enzfx" /></a> </p>
-
 
 
 <Quick Introduction>
