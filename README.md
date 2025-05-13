@@ -6,7 +6,7 @@
 
 
 <Quick Introduction>
-js Eyyoo! Addicted to learning code, with friends :).
+js Eyyoo! Viciado em aprender código, com amigos :).
 
 - 🌱 Atualmente, estou a aprender tudo 🤣
 - 💎 Talvez até fazendo vídeos no youtube.
