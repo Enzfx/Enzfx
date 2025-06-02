@@ -3,17 +3,28 @@
 
 <p align="left"> <a href="https://x.com/enzfsz" target="blank"><img src="https://img.shields.io/twitter/follow/Enzfsz?logo=x&style=for-the-badge" alt="Enzfx"/></a> </p>
 
+## 🚀 About Me
 
-<Quick Introduction>
-js Eyyoo! Addicted to learning code, with friends :).
-
-- 🌱 Currently, I am learning everything 🤣
-- 💎 Maybe even making videos on youtube.
+- 🧠 Curious by nature, I love learning new things — especially coding!
+- 💻 Just getting started in programming (and loving it).
+- 🌱 Currently learning **everything** 🤪
+- 🎥 Might start making videos on YouTube soon!
 
 **© [Enzfx](https://github.com/Enzfx)**
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.instagram.com/enzfrx/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=instagram&logoColor=pink"/>
+  </a>
+  <a href="https://discord.gg/afNuY78PCK" target="_blank">
+    <img src="https://img.shields.io/badge/Join%20my%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Enzfx&show_icons=true&theme=tokyonight&locale=en" alt="enzfx" /></p>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=enzfx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
