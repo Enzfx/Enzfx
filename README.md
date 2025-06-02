@@ -1,8 +1,7 @@
-
 <h1 align="center">Hi 👋, I'm Enzo Freitas</h1>
 <h3 align="center">I am currently a Biotechnology student at the Federal University of the North, and I am starting the studies of programming languages to assist me in my academic life!</h3>
 
-<p align="left"> <a href="https://twitter.com/enzfsz" target="blank"><img src="https://img.shields.io/twitter/follow/Enzfsz?logo=twitter&style=for-the-badge" alt="Enzfx"/></a> </p>
+<p align="left"> <a href="https://x.com/enzfsz" target="blank"><img src="https://img.shields.io/twitter/follow/Enzfsz?logo=x&style=for-the-badge" alt="Enzfx"/></a> </p>
 
 
 <Quick Introduction>
