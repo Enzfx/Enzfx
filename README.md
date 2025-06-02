@@ -25,6 +25,8 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Enzfx&show_icons=true&theme=tokyonight&locale=en" alt="enzfx" /></p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=enzfx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+| GitHub Stats | Streak Stats |
+|--------------|--------------|
+| <img src="https://github-readme-stats.vercel.app/api?username=Enzfx&show_icons=true&theme=tokyonight&locale=en" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=enzfx&theme=tokyonight&hide_border=true" /> |
+
 
