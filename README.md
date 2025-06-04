@@ -19,4 +19,4 @@
 
 | GitHub Stats | Streak Stats |
 |--------------|--------------|
-| <img src="https://github-readme-stats.vercel.app/api?username=Enzfx&show_icons=true&theme=tokyonight&locale=en" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=enzfx&theme=tokyonight&hide_border=true" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=Enzfx&show_icons=true&theme=maroongold&locale=en" /> | [![GitHub Streak](https://streak-stats.demolab.com?user=Enzfx&theme=maroongold&locale=pt_BR)](https://git.io/streak-stats)|
