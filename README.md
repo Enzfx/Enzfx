@@ -7,6 +7,7 @@
 - 💻 Just getting started in programming (and loving it).
 - 🌱 Currently learning **everything** 🤪
 - 🎥 Might start making videos on YouTube soon!
+- 🎓 Studying at UFPA and diving into tech one line of code at a time.
 
 **© [Enzfx](https://github.com/Enzfx)**
 
