@@ -11,13 +11,15 @@
 
 **© [Enzfx](https://github.com/Enzfx)**
 
-## 🌐 Connect with Me
+#
+<img align="right" alt="Hyouka" height="180px" src="hyouka.gif">
+
+
+
+### Connect with Me
+
+
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/enzfrx/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/afNuY78PCK)
 [![X](https://img.shields.io/badge/Enzfsz-000?style=for-the-badge&logo=x)](https://x.com/enzfsz)
----
-
-| GitHub Stats | Streak Stats |
-|--------------|--------------|
-| <img src="https://github-readme-stats.vercel.app/api?username=Enzfx&show_icons=true&theme=maroongold&locale=en" /> | [![GitHub Streak](https://streak-stats.demolab.com?user=Enzfx&theme=maroongold&locale=pt_BR)](https://git.io/streak-stats)|
