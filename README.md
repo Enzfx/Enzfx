@@ -4,6 +4,7 @@
 ## 🚀 About Me
 <img align="right" alt="Hyouka" height="180px" src="hyouka.gif">
 
+
 - 🧠 Curious by nature, I love learning new things — especially coding!
 - 💻 Just getting started in programming (and loving it).
 - 🌱 Currently learning **everything** 🤪
