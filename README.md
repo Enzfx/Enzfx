@@ -2,6 +2,7 @@
 <h4>I am currently a Biotechnology student at the Federal University of the North, and I am starting the studies of programming languages to assist me in my academic life!</h4>
 
 ## 🚀 About Me
+<img align="right" alt="Hyouka" height="180px" src="hyouka.gif">
 
 - 🧠 Curious by nature, I love learning new things — especially coding!
 - 💻 Just getting started in programming (and loving it).
@@ -9,12 +10,8 @@
 - 🎥 Might start making videos on YouTube soon!
 - 🎓 Studying at UFPA and diving into tech one line of code at a time.
 
+
 **© [Enzfx](https://github.com/Enzfx)**
-
-#
-<img align="right" alt="Hyouka" height="180px" src="hyouka.gif">
-
-
 
 ### Connect with Me
 
