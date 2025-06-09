@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enzo Freitas</h1>
-<h4>I am currently a Biotechnology student at the Federal University of the North, and I am starting the studies of programming languages to assist me in my academic life!</h4>
+<h4>I am currently a Biotechnology student at the Federal University of Para and I am starting the studies of programming languages to assist me in my academic life!</h4>
 
 ## 🚀 About Me
 <img align="right" alt="Hyouka" height="180px" src="hyouka.gif">
