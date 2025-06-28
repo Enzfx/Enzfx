@@ -4,11 +4,16 @@
 
 ## 🚀 About Me
 
+<div>
+<img align="right" alt="Code" height="150px" src="code.svg" style="margin-left: 20px; margin-bottom: 120px; margin-right: 20px;">
+
 - 🧠 Curious by nature, I love learning new things — especially coding!
 - 💻 Aspiring Full Stack Developer - just getting started and loving it!
 - 🌱 Currently learning **everything** to become a complete developer 🤪
 - 🎥 Might start making videos on YouTube soon!
 - 🎓 Studying at UFPA and diving into tech one line of code at a time.
+
+</div>
 
 
 
