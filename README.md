@@ -5,7 +5,7 @@
 ## 🚀 About Me
 
 <div>
-<img src="code.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="logo">
+<img src="code.svg" min-width="250px" max-width="250px" width="250px" align="right" alt="logo">
 
 - 🧠 Curious by nature, I love learning new things — especially coding!
 - 💻 Aspiring Full Stack Developer - just getting started and loving it!
