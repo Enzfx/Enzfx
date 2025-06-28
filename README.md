@@ -7,8 +7,10 @@
 
 ## 🚀 About Me
 
-<div>
-<img align="right" src="code.svg" width="150px" style="margin-left: 20px; margin-top: 30px; margin-bottom: 30px;" alt="logo">
+<div align="center">
+<table>
+<tr>
+<td valign="top" width="70%">
 
 - 🧠 Curious by nature, I love learning new things — especially coding!
 - 💻 Aspiring Full Stack Developer - just getting started and loving it!
@@ -16,9 +18,15 @@
 - 🎥 Might start making videos on YouTube soon!
 - 🎓 Studying at UFPA and diving into tech one line of code at a time.
 
-</div>
+</td>
+<td valign="middle" width="30%" align="center">
 
-<div style="clear: both; margin-bottom: 50px;"></div>
+<img src="code.svg" width="150px" alt="logo">
+
+</td>
+</tr>
+</table>
+</div>
 
 
 <div align="center">
