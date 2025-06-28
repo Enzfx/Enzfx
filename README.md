@@ -5,7 +5,7 @@
 ## 🚀 About Me
 
 <div>
-<img align="right" alt="Code" height="150px" src="code.svg" style="margin-left: 20px; margin-bottom: 120px; margin-right: 20px;">
+<img align="right" alt="Code" height="150px" src="code.svg" style="margin-left: 30px; margin-bottom: 50px; margin-right: 30px; margin-top: 20px;">
 
 - 🧠 Curious by nature, I love learning new things — especially coding!
 - 💻 Aspiring Full Stack Developer - just getting started and loving it!
