@@ -5,7 +5,7 @@
 <h4 >I am currently a Biotechnology student at the Federal University of Para and I am starting the studies of programming languages to assist me in my academic life as a future Full Stack Developer!</h4>
 
 
-<img src="code.svg" min-width="250px" width="250px" align="right" aling="left" alt="logo">
+<img src="code.svg" min-width="250px" width="250px"  aling="center" alt="logo">
 
 
 ## 🚀 About Me
