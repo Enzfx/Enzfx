@@ -8,9 +8,9 @@
 ## 🚀 About Me
 
 <div align="center">
-<table>
+<table style="width: 100%; border: none; border-collapse: collapse;">
 <tr>
-<td valign="top" width="70%">
+<td valign="top" width="70%" style="border: none; padding: 0;">
 
 - 🧠 Curious by nature, I love learning new things — especially coding!
 - 💻 Aspiring Full Stack Developer - just getting started and loving it!
@@ -19,7 +19,7 @@
 - 🎓 Studying at UFPA and diving into tech one line of code at a time.
 
 </td>
-<td valign="middle" width="30%" align="center">
+<td valign="middle" width="30%" align="center" style="border: none; padding: 0;">
 
 <img src="code.svg" width="150px" alt="logo">
 
