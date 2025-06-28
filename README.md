@@ -59,3 +59,9 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/enzfrx/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/afNuY78PCK)
 [![X](https://img.shields.io/badge/Enzfsz-000?style=for-the-badge&logo=x)](https://x.com/enzfsz)
+
+---
+
+<div align="center">
+  <img src="banner.png" alt="Banner" width="100%"/>
+</div>
