@@ -5,7 +5,7 @@
 ## 🚀 About Me
 
 <div>
-<img align="right" alt="Hyouka" height="150px" src="hyouka.gif" style="margin-left: 20px; margin-bottom: 120px; margin-right: 20px;">
+<img align="right" alt="Senku" height="150px" src="senku.gif" style="margin-left: 20px; margin-bottom: 120px; margin-right: 20px;">
 
 - 🧠 Curious by nature, I love learning new things — especially coding!
 - 💻 Aspiring Full Stack Developer - just getting started and loving it!
