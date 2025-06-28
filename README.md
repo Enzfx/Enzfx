@@ -5,7 +5,7 @@
 ## 🚀 About Me
 
 <div>
-<img align="right" alt="Hyouka" height="200px" src="hyouka.gif" style="margin-left: 20px; margin-bottom: 40px;">
+<img align="right" alt="Hyouka" height="200px" src="hyouka.gif" style="margin-left: 20px; margin-bottom: 80px; margin-right: 15px;">
 
 - 🧠 Curious by nature, I love learning new things — especially coding!
 - 💻 Aspiring Full Stack Developer - just getting started and loving it!
@@ -15,7 +15,7 @@
 
 </div>
 
-<div style="clear: both; margin-bottom: 50px;"></div>
+<div style="clear: both; margin-bottom: 80px;"></div>
 
 <div align="center">
 <table>
