@@ -1,6 +1,6 @@
 <!-- By https://github.com/DenverCoder1 -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=65F7B1&width=440&height=60&lines=Welcome!+My+name+is+Enzo+Freitas+%E2%98%85" alt="Typing SVG" /></a>
-<h4 >I am currently a Biotechnology student at the Federal University of Para and I am starting the studies of programming languages to assist me in my academic life!</h4>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF8C42&width=440&height=60&lines=Welcome!+My+name+is+Enzo+Freitas+%E2%98%85;Aspiring+Full+Stack+Developer+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<h4 >I am currently a Biotechnology student at the Federal University of Para and I am starting the studies of programming languages to assist me in my academic life as a future Full Stack Developer!</h4>
 
 ## 🚀 About Me
 
@@ -8,8 +8,8 @@
 <img align="right" alt="Hyouka" height="200px" src="hyouka.gif" style="margin-left: 20px;">
 
 - 🧠 Curious by nature, I love learning new things — especially coding!
-- 💻 Just getting started in programming (and loving it).
-- 🌱 Currently learning **everything** 🤪
+- 💻 Aspiring Full Stack Developer - just getting started and loving it!
+- 🌱 Currently learning **everything** to become a complete developer 🤪
 - 🎥 Might start making videos on YouTube soon!
 - 🎓 Studying at UFPA and diving into tech one line of code at a time.
 
@@ -17,12 +17,12 @@
 
 <br clear="right"/>
 
-## 🛠️ Technologies & Tools
-
 <div align="center">
 <table>
 <tr>
 <td valign="top" width="50%">
+
+## 🛠️ Technologies & Tools
 
 ### Learning
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
