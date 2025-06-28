@@ -3,14 +3,19 @@
 <h4 >I am currently a Biotechnology student at the Federal University of Para and I am starting the studies of programming languages to assist me in my academic life!</h4>
 
 ## 🚀 About Me
-<img align="right" alt="Hyouka" height="180px" src="hyouka.gif">
 
+<div align="left">
+<img align="right" alt="Hyouka" height="200px" src="hyouka.gif" style="margin-left: 20px;">
 
 - 🧠 Curious by nature, I love learning new things — especially coding!
 - 💻 Just getting started in programming (and loving it).
 - 🌱 Currently learning **everything** 🤪
 - 🎥 Might start making videos on YouTube soon!
 - 🎓 Studying at UFPA and diving into tech one line of code at a time.
+
+</div>
+
+<br clear="right"/>
 
 ## 🛠️ Technologies & Tools
 
@@ -26,6 +31,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
+## 🎯 Current Goals
+
+- 🎓 Master Java fundamentals and OOP concepts
+- 🤖 Build my first AI/Machine Learning project
+- 🔬 Apply programming skills to biotechnology research
+- 🌐 Develop a personal portfolio website
 
 
 **© [Enzfx](https://github.com/Enzfx)**
@@ -33,6 +44,8 @@
 
 ### Connect with Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzfrx/)
+[![Lattes](https://img.shields.io/badge/Lattes-0055A4?style=for-the-badge&logo=academia&logoColor=white)](http://lattes.cnpq.br/0019961681756311)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/enzfrx/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/afNuY78PCK)
 [![X](https://img.shields.io/badge/Enzfsz-000?style=for-the-badge&logo=x)](https://x.com/enzfsz)
