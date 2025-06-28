@@ -1,11 +1,8 @@
-
 <!-- By https://github.com/DenverCoder1 -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF8C42&width=440&height=60&lines=Welcome!+My+name+is+Enzo+Freitas+%E2%98%85;Aspiring+Full+Stack+Developer+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <h4 >I am currently a Biotechnology student at the Federal University of Para and I am starting the studies of programming languages to assist me in my academic life as a future Full Stack Developer!</h4>
 
-
-<img src="code.svg" min-width="250px" width="250px"  align="right" align="center" alt="logo">
 
 
 ## 🚀 About Me
@@ -15,12 +12,10 @@
 - 🌱 Currently learning **everything** to become a complete developer 🤪
 - 🎥 Might start making videos on YouTube soon!
 - 🎓 Studying at UFPA and diving into tech one line of code at a time.
+<div align="right">
+  <img src="code.svg" width="200px" style="" alt="logo">
+</div>
 
-
-
-
-
-<div style="clear: both; margin-bottom: 100px;"></div>
 
 <div align="center">
 <table>
