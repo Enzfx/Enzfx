@@ -19,6 +19,11 @@
 
 ## 🛠️ Technologies & Tools
 
+<div align="center">
+<table>
+<tr>
+<td valign="top" width="50%">
+
 ### Learning
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -31,12 +36,20 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
+</td>
+<td valign="top" width="50%">
+
 ## 🎯 Current Goals
 
 - 🎓 Master Java fundamentals and OOP concepts
 - 🤖 Build my first AI/Machine Learning project
 - 🔬 Apply programming skills to biotechnology research
 - 🌐 Develop a personal portfolio website
+
+</td>
+</tr>
+</table>
+</div>
 
 
 **© [Enzfx](https://github.com/Enzfx)**
