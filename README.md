@@ -1,5 +1,5 @@
 <!-- By https://github.com/DenverCoder1 -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF8C42&width=440&height=60&lines=Welcome!+My+name+is+Enzo+Freitas+%E2%98%85;Aspiring+Full+Stack+Developer+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF8C42&width=440&height=60&lines=Aspiring+Full+Stack+Developer+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <h4 >I am currently a Biotechnology student at the Federal University of Para and I am starting the studies of programming languages to assist me in my academic life as a future Full Stack Developer!</h4>
 
