@@ -68,3 +68,7 @@
 <div align="center">
   <img src="banner.png" alt="Banner" width="70%"/>
 </div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Enzfx&color=ff8c42&style=for-the-badge&label=Profile+Views" alt="Profile Views Counter"/>
+</div>
