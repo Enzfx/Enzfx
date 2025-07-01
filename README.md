@@ -26,7 +26,7 @@
 ## 🛠️ Technologies & Tools
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,js,html,css,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,java,js,html,css,git,github,vscode&theme=dark" />
 </div>
 
 </td>
