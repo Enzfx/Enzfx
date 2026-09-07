@@ -1,23 +1,23 @@
-# Enzo Freitas Moura 
+# Enzo Freitas 
 
 ## 🧬 About Me
 
 <table>
   <tr>
-    <td width="55%">
-      Undergraduate student in Biotechnology at the Federal University of Pará (UFPA) in Belém, Brazil; currently in the first year (began in October 2025). He conducts research at the Center for the Valor[...]
-      <br><br>
-      His current research focuses on the isolation and characterization of lactic acid bacteria with probiotic potential from stingless bee honey (a project registered in the PIBIC 2026 program). At the same[...]
-      <br><br>
-      His long-term goal is to pursue graduate studies abroad, with a specific interest in Japan's MEXT scholarship program.
+    <td width="65%">
+I'm an undergraduate student in Biotechnology at the Federal University of Pará (UFPA), Belém, Brazil (started October 2025). I research bioactive compounds at CVACBA under Prof. Nilton Akio Muto, and previously assisted a doctoral project on endophytic bacteria for 6 months.
+
+My current work (PIBIC 2026) focuses on isolating and characterizing probiotic lactic acid bacteria from stingless bee honey. I'm also building skills in bioinformatics, genome assembly and annotation (Prokka, SPAdes, QUAST, BLAST), and machine learning applied to biological data, aiming to bring computational methods to Amazonian bioactive compound research.
+
+Long-term, I want to pursue graduate studies abroad, particularly through Japan's MEXT scholarship.
     </td>
-    <td width="45%">
+    <td width="70%">
       <img height=250 src="https://github.com/user-attachments/assets/df2eb32b-d28e-4bc1-abf5-0c99cdbb437a"/>
     </td>
   </tr>
 </table>
 
-## 🔎 Research Interests
+## 🔬 Research Interests
 - Bioactive compounds from Amazonian biodiversity
 - Microbiology (probiotic lactic acid bacteria, endophytic bacteria)
 - Bioinformatics and genomics
