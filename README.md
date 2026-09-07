@@ -1,23 +1,27 @@
-<!-- By https://github.com/DenverCoder1 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=25&pause=1000&color=33F738&width=435&lines=Em+busca+de+aprender+at%C3%A9+ter+mais+d%C3%BAvidas;In+search+of+learning+until+you+have+more+doubts)](https://git.io/typing-svg)
+# Enzo Freitas Moura 
 
-<h4 >Hello guys, I'm Enzo Freitas, a biotechnology undergraduate student at the Federal University of Pará (UFPA). I'm currently working hard to study languages and machine learning, and that's it, I think.</h4> 
+## 🧬 About Me
 
-## 🌱 About Me
+<div align="right">
+  <img height=250 src="https://github.com/user-attachments/assets/df2eb32b-d28e-4bc1-abf5-0c99cdbb437a"/>
+</div>
 
-- 🧠 Curious by nature, I love learning new things!
-- 💻 Aspiring Full Stack Developer - just getting started and loving it!
-- ⭐ Currently learning **everything** to become a complete developer.
+Undergraduate student in Biotechnology at the Federal University of Pará (UFPA) in Belém, Brazil; currently in the first year (began in October 2025). He conducts research at the Center for the Valorization of Bioactive Compounds from the Amazon (CVACBA) under the guidance of Prof. Nilton Akio Muto and assisted a doctoral student on a doctoral project involving endophytic bacteria for a period of 6 months.
 
-## ☕ Current Goals
+His current research focuses on the isolation and characterization of lactic acid bacteria with probiotic potential from stingless bee honey (a project registered in the PIBIC 2026 program). At the same time, he is developing basic skills in bioinformatics and machine learning, genome assembly and annotation workflows (Prokka, SPAdes, QUAST, BLAST), and an introduction to machine learning applied to biological data, with a long-term interest in applying computational approaches to research on bioactive compounds from the Amazon.
 
-- 🎓 Learning Python and its applied libraries in Machine Learning and data processing.
-- 🔬 Apply programming skills to biotechnology research.
+His long-term goal is to pursue graduate studies abroad, with a specific interest in Japan’s MEXT scholarship program.
+
+## 🔎 Research Interests
+- Bioactive compounds from Amazonian biodiversity
+- Microbiology (probiotic lactic acid bacteria, endophytic bacteria)
+- Bioinformatics and genomics
+- Machine learning applied to biological data
 
 ## 🛠️ Technologies & Tools
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,git,linux,github,vscode&theme=dark" />
 </div>
 
 ### Connect with Me
@@ -26,9 +30,3 @@
 [![Lattes](https://img.shields.io/badge/Lattes-0055A4?style=for-the-badge&logo=academia&logoColor=white)](http://lattes.cnpq.br/0019961681756311)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/enzfrx/)
 [![X](https://img.shields.io/badge/Enzfsz-000?style=for-the-badge&logo=x)](https://x.com/enzfsz)
-
----
-
-<div align="center">
-  <img src="banner.png" alt="Banner" width="70%"/>
-</div>
